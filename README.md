@@ -53,7 +53,8 @@ int main() {
 ```
 
 ## OUTPUT:
-<img width="1920" height="1080" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/3f6a7d25-3fd5-4900-b43e-d29aa83b9f4d" />
+<img width="1740" height="813" alt="Screenshot 2025-09-06 093929" src="https://github.com/user-attachments/assets/747b27db-c9ac-49cd-9b19-d8448665c799" />
+
 
 
 ## RESULT :
